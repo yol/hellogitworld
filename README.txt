@@ -1,3 +1,5 @@
+This is a first line addition
+
 # Part one
 
 This code is a big sample project students can use during Matthew's Git class.
