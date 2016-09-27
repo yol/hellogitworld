@@ -21,5 +21,3 @@ MASTERIX2
 
 I can still make changes locally
 I can also make changes using the online editor
-
-Work on master continues while feature 2 is underway
