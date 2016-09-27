@@ -1,3 +1,6 @@
 Some dummy content, bla bla bla
 
 Other file for this feature/new_feature1, yadda yada yada
+
+
+For feature2, I make even more changes
