@@ -18,3 +18,5 @@ We can, as an example effort, even modify this README and change it as if it wer
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 MASTERIX1
 MASTERIX2
+
+I can also make changes using the online editor
