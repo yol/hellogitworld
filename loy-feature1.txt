@@ -1,3 +1,5 @@
 Hi there folks!
 
 I'm creating a new feature
+
+And another feature to rebase on
